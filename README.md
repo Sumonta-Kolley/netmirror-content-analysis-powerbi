@@ -42,7 +42,7 @@ The **NetMirror Content Analysis Dashboard** provides an executive summary of en
 
 The project utilizes a clean, optimized flat-table schema (`Netmirror`) processed via Power Query to minimize overhead and enable seamless cross-filtering.
 
-![Data Model & Table Structure]<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/185681f5-d96f-42a3-8535-ac81157a112d" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/185681f5-d96f-42a3-8535-ac81157a112d" />
 
 
 ### Data Dictionary
