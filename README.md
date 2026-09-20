@@ -14,9 +14,8 @@ The **NetMirror Content Analysis Dashboard** provides an executive summary of en
 
 | Default Overview State | Dynamic Interactive Filter State |
 | :---: | :---: |
-| ![Default View] <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/942bea04-453f-4a32-87fd-981400206250" />
-|<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3ad45c6e-2cd9-4383-a1d0-94fe12cbc7b3" />
- ![Filtered View]![Uploading image.png…]()
+| <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/dc273f44-0aec-4a8a-b067-878adb064922" />
+ | <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/89c89cb4-855e-4d5a-b03a-8e87fda4e259" />
  |
 | *High-level catalog overview across 2,000 titles* | *Cross-filtering triggered by selecting "Movie" segment* |
 
@@ -45,7 +44,8 @@ The **NetMirror Content Analysis Dashboard** provides an executive summary of en
 
 The project utilizes a clean, optimized flat-table schema (`Netmirror`) processed via Power Query to minimize overhead and enable seamless cross-filtering.
 
-![Data Model & Table Structure](screenshots/data_view.png)
+![Data Model & Table Structure]<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/185681f5-d96f-42a3-8535-ac81157a112d" />
+
 
 ### Data Dictionary
 
