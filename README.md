@@ -14,7 +14,7 @@ The **NetMirror Content Analysis Dashboard** provides an executive summary of en
 
 | Default Overview State | Dynamic Interactive Filter State |
 | :---: | :---: |
-| ![Default View](screenshots/dashboard_overview.png) | ![Filtered View](screenshots/dashboard_filtered.png) |
+| ![Default View] | ![Filtered View]() |
 | *High-level catalog overview across 2,000 titles* | *Cross-filtering triggered by selecting "Movie" segment* |
 
 ---
